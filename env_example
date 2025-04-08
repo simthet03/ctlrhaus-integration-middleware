@@ -1,0 +1,11 @@
+# Shopify Configuration
+SHOPIFY_SHOP_NAME=your-store-name
+SHOPIFY_API_KEY=your-api-key
+SHOPIFY_ACCESS_TOKEN_VAR=your-access-token
+SHOPIFY_LOCATION_ID=your_location_id
+
+# Gammatek Configuration
+GAMMATEK_API_KEY=your-gammatek-key
+
+# Sync Settings
+SYNC_INTERVAL_MINUTES=60

@@ -1,0 +1,63 @@
+{
+  "timestamp": "2024-12-15T22:16:23.173Z",
+  "totalProducts": 2524,
+  "totalStockRecords": 2524,
+  "sampleProduct": {
+    "sku": "ABY-ABYACC314",
+    "name": "One Piece - Flexible Mousepad - Wanted Luffy",
+    "description": "Find Luffy and his astonishing bounty of 1 500 000 000 berries on this great One Piece mousepad by ABYstyle!",
+    "priceIncl": 269,
+    "priceExcl": 233.91,
+    "images": [
+      "https://images.gammatek.co.za/images/ABY-ABYACC314/ABY-ABYACC314.jpg"
+    ],
+    "attributes": {
+      "deviceManufacturer": null,
+      "deviceModel": null,
+      "brand": "ABYSSE NET",
+      "category": "Collectable",
+      "color": "Multicolour"
+    },
+    "features": {
+      "Feature1": "Woven fabric, high quality printing",
+      "Feature2": "Anti-slip base",
+      "Feature3": "Flexible and easily portable",
+      "Feature4": "Smooth finishing, suitable for all types of computer mouse",
+      "Feature5": "Dimensions: 23.5 x 19.5cm, 3mm thick"
+    },
+    "stock": {
+      "sku": "ABY-ABYACC314",
+      "onHand": 0
+    }
+  },
+  "stockLevelsSnapshot": [
+    {
+      "sku": "ABY-ABYACC314",
+      "onHand": 0
+    },
+    {
+      "sku": "ABY-ABYACC323",
+      "onHand": 19
+    },
+    {
+      "sku": "ABY-ABYACC340",
+      "onHand": 21
+    },
+    {
+      "sku": "ABY-ABYACC345",
+      "onHand": 18
+    },
+    {
+      "sku": "ABY-ABYACC383",
+      "onHand": 9
+    }
+  ],
+  "dataValidation": {
+    "productsWithoutSku": 0,
+    "productsWithoutPrice": 8,
+    "productsWithoutName": 8,
+    "productsWithoutImages": 13,
+    "stockRecordsWithoutSku": 0,
+    "stockRecordsWithoutOnHand": 0
+  }
+}
